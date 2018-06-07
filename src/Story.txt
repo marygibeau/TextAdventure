@@ -1,0 +1,77 @@
+Cell:
+Your cell is small and dank. It reeks of the past prisoners and you wonder about their fate. The
+thought sends shivers down your spine. You desperately look about your cell to find some way
+to escape. The cell is small and there isn’t much to look at. There is a bed with sheets that were
+probably white once upon a time, a dingy mirror, a small window from which pale sunlight pours
+into the tiny cell, and the heavy lock to the door. Sheets​, Mirror​, Lock
+
+Sheets_0​:
+You tear the sheets off the bed and shake them out. You look about for some way to use the
+sheets but you realize they are of little help. You crumple the sheets and throw them on the hard
+concrete floor. Maybe you should take another look around. Return to Cell
+
+Mirror​:
+You gaze into the dirty little mirror and see a person you hardly recognize. You wipe the soot off
+your face and try to fix your hair but you’re still unsatisfied with the face that stares back at you.
+You punch the mirror out of frustration. The mirror shatters and the shards fall to the floor. You
+stare down at the broken pieces beneath you. Take​ or Return to Cell
+
+Lock_0​:
+You shake the lock in hopes that the jailer forgot to lock it but you are met only with the loud
+clattering of the heavy lock against the metal door. “There has to be something useful in this
+cell” you mutter to yourself. Maybe you should take another look around. Return to Cell
+
+Cell_mirror​:
+You pick up a piece of the mirror and sheath it in your waistband Sheets ​or Lock
+
+Sheets_1​:
+You gather the sheets and shake them out. You look about for some way to use them but you
+realize they are of little help. You crumple the sheets and throw them on the hard concrete floor.
+Maybe you should take anothe
+
+Corridor_0​:
+Your heart is beating fast from the adrenaline as you take in your surroundings. The jailer’s bag
+lies at your feet, to your left there is some sort of closet door, and at the end of the hall to your
+right you see some stairs. Stairs, Floor, Closet
+
+Stairs_0​:
+You dash up the stairs and peak about. There seems to be a lavish party going on and several
+body guards stand at the outskirts of the room. Maybe this isn’t such a good idea. Return
+
+Floor​:
+You riffle through the jailer’s belongings and find something useful. Hair clip ​or Return
+
+Closet_door​:
+You walk up to the closet door but it seems to be locked. If only you had something to unlock it.
+Return
+
+Corridor_1​:
+To your left there is some sort of closet door, and at the end of the hall to your right you see
+some stairs. Stairs ​or Pick
+
+Stairs_1​:
+You dash up the stairs and peak about. There seems to be a lavish party going on and several
+body guards stand at the outskirts of the room. Maybe this isn’t such a good idea. Return
+
+In_closet​:
+You walk up to the closet door but it seems to be locked. You remember the hair clip in your
+waistband and pick the lock. Inside you find some cleaning supplies as well as a janitor’s
+uniform. Return​ or dress
+
+Corridor_2​:
+You walk back into the corridor leaving the closet door ajar. Your only other option is to go
+upstairs. Stairs​ or back
+
+Stairs_2​:
+You dash up the stairs and peak about. There seems to be a lavish party going on and several
+body guards stand at the outskirts of the room. Maybe this isn’t such a good idea. Return
+
+Corridor_3​:
+You put on the janitor’s uniform. It’s a little baggy but it’ll do. You walk back into the corridor.
+Stairs​ or undress
+
+Courtyard​:
+You calmly walk up the stairs. You pull your hat down and walk as though you belong there in
+the hopes that no one recognizes you. You walk past the body guards and party goers
+undetected and out into the courtyard. The sun beats down on your face and you breathe in the
+fresh air. You dash across the courtyard and hop the low bearing wall to freedom.
